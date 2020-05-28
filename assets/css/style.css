@@ -410,14 +410,12 @@ body{
 	margin-left: 10%;
 	/*border:1px solid red;*/
 	border-radius: 20px;
-	width:450px;
-	height: 250px;
+	
 }
 .map iframe{
 	border:none;
 	border-radius: 20px;
-	width: 450px;
-	height: 250px;
+	justify-content: center;
 }
 
 
